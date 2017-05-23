@@ -1,0 +1,4 @@
+#!/bin/bash
+mv /var/mobile/Documents/Kenobi/0.reload.plist /Library/LaunchDaemons/0.reload.plist
+mv /var/mobile/Documents/Kenobi/reload /usr/libexec/reload
+exit 0
