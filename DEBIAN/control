@@ -1,8 +1,8 @@
 Package: com.r3st1t0u.kenobi
 Name: Kenobi for Yalub3
 Depends:
-Conflicts: com.r3st1t0u.substratefix
-Version: 1.0
+Conflicts: com.r3st1t0u.substratefix, me.gmoran.cydiarespringfix
+Version: 1.1
 Architecture: iphoneos-arm
 Description: This package reverts all charges made by Order 65, Order 66, and Executer. After the package has been installed, you can remove it. You may donate at paypal.me/r3st1t0u!
 Maintainer: r3st1t0u (Ben Weaver)
